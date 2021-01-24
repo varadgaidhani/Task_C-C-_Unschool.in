@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611481553 source:c:\users\varad\desktop\c\employee_details\main.c
+	<stdio.h>
+	<stdlib.h>
+
